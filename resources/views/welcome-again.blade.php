@@ -6,7 +6,8 @@
 <body>
     <h1>Welcome to Laravel!</h1>
     <p>Welcome again from views</p>
-    <p>Welcome yh</p>
+    <p>Hi</p>
+    <p>Hai2</p>
 
 </body>
 </html>
